@@ -1,0 +1,3540 @@
+TransactionID,CustomerID,ProductID
+1,179,yogurt
+1,179,eggs
+1,179,light bulbs
+1,179,soap
+2,137,hair spray
+2,137,garbage bags
+2,137,cucumbers
+2,137,lotion
+3,78,tea
+3,78,rice
+3,78,butter
+3,78,paper towels
+4,23,deodorant
+4,23,tomatoes
+5,166,soap
+5,166,cleaning spray
+5,166,hair spray
+5,166,apples
+5,166,cucumbers
+6,153,beer
+6,153,butter
+6,153,lotion
+6,153,dish soap
+7,39,dish soap
+7,39,tea
+7,39,cleaning spray
+8,243,soap
+8,243,wine
+8,243,light bulbs
+8,243,paper towels
+9,286,rice
+9,286,dish soap
+9,286,detergent
+9,286,yogurt
+9,286,hair spray
+10,85,cucumbers
+10,85,beef
+10,85,cleaning spray
+10,85,garbage bags
+11,232,detergent
+11,232,butter
+11,232,toothpaste
+12,151,lotion
+12,151,paper towels
+12,151,tomatoes
+12,151,deodorant
+13,238,soda
+13,238,soap
+13,238,lotion
+13,238,chicken
+14,39,cheese
+14,39,bread
+14,39,detergent
+14,39,cleaning spray
+14,39,water
+15,52,wine
+15,52,water
+15,52,pasta
+15,52,cucumbers
+15,52,yogurt
+16,198,cucumbers
+16,198,paper towels
+16,198,yogurt
+17,40,beef
+17,40,soap
+18,265,tomatoes
+18,265,light bulbs
+19,152,shampoo
+19,152,lotion
+19,152,toilet paper
+19,152,hair spray
+19,152,soda
+20,25,lotion
+20,25,tomatoes
+20,25,soap
+20,25,shampoo
+21,279,yogurt
+21,279,bananas
+22,106,tea
+22,106,hair spray
+22,106,lotion
+23,245,lotion
+23,245,water
+23,245,bananas
+23,245,detergent
+23,245,dish soap
+24,238,toilet paper
+24,238,milk
+25,117,soap
+25,117,cucumbers
+26,45,juice
+26,45,dish soap
+27,176,tea
+27,176,face wash
+28,199,water
+28,199,juice
+28,199,hair spray
+28,199,tea
+28,199,bread
+29,130,rice
+29,130,beans
+29,130,bananas
+29,130,coffee
+30,48,milk
+30,48,shampoo
+31,295,detergent
+31,295,dish soap
+32,226,wine
+32,226,face wash
+32,226,hair spray
+32,226,toilet paper
+32,226,soda
+33,30,soap
+33,30,eggs
+33,30,juice
+33,30,paper towels
+34,26,beans
+34,26,water
+34,26,garbage bags
+34,26,hair spray
+34,26,cleaning spray
+35,232,pasta
+35,232,milk
+35,232,soda
+35,232,beans
+36,94,beef
+36,94,coffee
+36,94,apples
+37,66,rice
+37,66,bananas
+37,66,coffee
+37,66,butter
+37,66,soda
+38,100,beef
+38,100,toothpaste
+38,100,face wash
+38,100,juice
+38,100,tea
+39,29,bananas
+39,29,beef
+40,262,paper towels
+40,262,rice
+40,262,soda
+40,262,deodorant
+41,134,light bulbs
+41,134,detergent
+41,134,beef
+42,105,soap
+42,105,cheese
+42,105,butter
+42,105,wine
+42,105,beer
+43,54,butter
+43,54,coffee
+43,54,soda
+44,244,coffee
+44,244,chicken
+44,244,pasta
+44,244,detergent
+45,57,water
+45,57,yogurt
+45,57,bananas
+46,199,shampoo
+46,199,cucumbers
+47,81,bananas
+47,81,light bulbs
+48,239,water
+48,239,bread
+48,239,apples
+48,239,pasta
+49,119,beef
+49,119,tomatoes
+49,119,shampoo
+50,186,shampoo
+50,186,pasta
+51,178,eggs
+51,178,toilet paper
+51,178,detergent
+52,78,soap
+52,78,tomatoes
+52,78,dish soap
+52,78,wine
+52,78,coffee
+53,24,detergent
+53,24,shampoo
+54,187,shampoo
+54,187,lotion
+54,187,cucumbers
+55,237,eggs
+55,237,toilet paper
+55,237,lotion
+55,237,face wash
+55,237,cleaning spray
+56,41,cucumbers
+56,41,bread
+57,218,cucumbers
+57,218,light bulbs
+57,218,chicken
+57,218,toilet paper
+57,218,eggs
+58,29,water
+58,29,yogurt
+59,281,deodorant
+59,281,beans
+59,281,water
+59,281,beef
+59,281,detergent
+60,235,shampoo
+60,235,garbage bags
+60,235,bananas
+60,235,tomatoes
+61,238,yogurt
+61,238,face wash
+61,238,bananas
+61,238,chicken
+61,238,bread
+62,180,detergent
+62,180,cheese
+62,180,lotion
+62,180,pasta
+62,180,apples
+63,169,soap
+63,169,beer
+64,274,cheese
+64,274,shampoo
+64,274,cucumbers
+65,207,butter
+65,207,light bulbs
+65,207,garbage bags
+65,207,soap
+66,230,cheese
+66,230,eggs
+66,230,pasta
+66,230,beef
+66,230,paper towels
+67,243,dish soap
+67,243,beef
+67,243,toothpaste
+68,172,paper towels
+68,172,tomatoes
+68,172,tea
+68,172,water
+68,172,light bulbs
+69,79,shampoo
+69,79,garbage bags
+69,79,milk
+70,243,chicken
+70,243,shampoo
+70,243,soap
+70,243,butter
+71,48,chicken
+71,48,cleaning spray
+71,48,pasta
+71,48,cheese
+72,250,beer
+72,250,beef
+73,99,cleaning spray
+73,99,face wash
+73,99,beans
+73,99,cucumbers
+74,206,tomatoes
+74,206,beans
+75,17,tomatoes
+75,17,soda
+75,17,butter
+76,209,toilet paper
+76,209,juice
+76,209,water
+76,209,deodorant
+77,159,soda
+77,159,juice
+78,84,shampoo
+78,84,apples
+78,84,milk
+78,84,juice
+78,84,rice
+79,266,chicken
+79,266,garbage bags
+79,266,hair spray
+80,258,apples
+80,258,beer
+81,143,tomatoes
+81,143,cleaning spray
+81,143,dish soap
+81,143,juice
+82,135,detergent
+82,135,cucumbers
+82,135,bread
+82,135,chicken
+83,40,water
+83,40,pasta
+83,40,juice
+83,40,yogurt
+83,40,eggs
+84,151,butter
+84,151,shampoo
+84,151,toothpaste
+84,151,toilet paper
+85,153,lotion
+85,153,toothpaste
+85,153,paper towels
+86,217,eggs
+86,217,wine
+86,217,tea
+87,64,toothpaste
+87,64,detergent
+87,64,cucumbers
+87,64,water
+88,163,beer
+88,163,coffee
+89,26,beans
+89,26,soap
+89,26,face wash
+89,26,hair spray
+90,148,hair spray
+90,148,beans
+91,5,beans
+91,5,shampoo
+91,5,face wash
+91,5,cucumbers
+92,271,bread
+92,271,beef
+92,271,wine
+93,180,deodorant
+93,180,chicken
+93,180,soda
+94,76,butter
+94,76,garbage bags
+94,76,hair spray
+94,76,tomatoes
+95,201,bread
+95,201,beef
+96,242,shampoo
+96,242,bananas
+96,242,paper towels
+96,242,coffee
+97,156,beer
+97,156,shampoo
+97,156,detergent
+98,195,beef
+98,195,face wash
+98,195,rice
+98,195,eggs
+98,195,bread
+99,77,detergent
+99,77,juice
+99,77,lotion
+99,77,eggs
+100,11,paper towels
+100,11,dish soap
+100,11,milk
+100,11,wine
+100,11,tea
+101,91,wine
+101,91,soap
+101,91,butter
+101,91,detergent
+102,208,shampoo
+102,208,light bulbs
+102,208,toothpaste
+103,211,soda
+103,211,apples
+104,32,butter
+104,32,lotion
+104,32,water
+104,32,dish soap
+104,32,hair spray
+105,269,yogurt
+105,269,cheese
+105,269,soap
+106,9,wine
+106,9,light bulbs
+106,9,toothpaste
+106,9,yogurt
+106,9,detergent
+107,167,cucumbers
+107,167,yogurt
+107,167,bread
+107,167,shampoo
+108,256,tomatoes
+108,256,rice
+108,256,paper towels
+108,256,soda
+109,159,toilet paper
+109,159,coffee
+110,37,soda
+110,37,toilet paper
+110,37,coffee
+111,264,toothpaste
+111,264,apples
+111,264,yogurt
+111,264,toilet paper
+112,210,beef
+112,210,rice
+112,210,eggs
+113,32,milk
+113,32,tea
+113,32,cucumbers
+113,32,juice
+113,32,lotion
+114,12,bread
+114,12,detergent
+114,12,tomatoes
+115,69,wine
+115,69,rice
+116,221,detergent
+116,221,bread
+116,221,yogurt
+117,207,soda
+117,207,juice
+117,207,wine
+118,52,juice
+118,52,bread
+118,52,butter
+118,52,bananas
+119,18,apples
+119,18,garbage bags
+119,18,bananas
+119,18,hair spray
+119,18,wine
+120,169,yogurt
+120,169,hair spray
+120,169,pasta
+121,76,bananas
+121,76,eggs
+122,63,light bulbs
+122,63,wine
+122,63,pasta
+122,63,deodorant
+123,48,face wash
+123,48,hair spray
+123,48,cheese
+123,48,apples
+123,48,coffee
+124,156,butter
+124,156,pasta
+124,156,hair spray
+124,156,tea
+125,275,tomatoes
+125,275,pasta
+125,275,butter
+125,275,chicken
+125,275,lotion
+126,105,shampoo
+126,105,tea
+127,102,soap
+127,102,tomatoes
+127,102,rice
+127,102,coffee
+127,102,eggs
+128,28,light bulbs
+128,28,lotion
+128,28,bread
+129,121,garbage bags
+129,121,detergent
+129,121,rice
+129,121,toilet paper
+129,121,soap
+130,194,dish soap
+130,194,deodorant
+130,194,toilet paper
+130,194,shampoo
+130,194,juice
+131,239,paper towels
+131,239,soda
+131,239,cheese
+131,239,hair spray
+131,239,beans
+132,133,apples
+132,133,soda
+133,145,hair spray
+133,145,cleaning spray
+133,145,tea
+134,161,cleaning spray
+134,161,beef
+134,161,light bulbs
+134,161,beans
+134,161,rice
+135,267,cucumbers
+135,267,tea
+135,267,cheese
+136,75,hair spray
+136,75,soda
+136,75,beer
+136,75,bananas
+137,229,yogurt
+137,229,apples
+137,229,detergent
+137,229,cheese
+138,251,tea
+138,251,pasta
+138,251,beer
+138,251,paper towels
+138,251,lotion
+139,20,lotion
+139,20,cheese
+139,20,garbage bags
+139,20,light bulbs
+140,36,tea
+140,36,apples
+141,198,dish soap
+141,198,garbage bags
+141,198,chicken
+141,198,juice
+142,272,toilet paper
+142,272,butter
+142,272,deodorant
+143,214,bananas
+143,214,apples
+144,67,paper towels
+144,67,shampoo
+144,67,juice
+144,67,wine
+145,294,detergent
+145,294,cheese
+146,70,lotion
+146,70,paper towels
+146,70,deodorant
+146,70,pasta
+146,70,beer
+147,135,eggs
+147,135,toilet paper
+147,135,toothpaste
+147,135,butter
+147,135,deodorant
+148,225,wine
+148,225,cleaning spray
+148,225,apples
+148,225,beans
+148,225,soda
+149,213,toilet paper
+149,213,chicken
+149,213,pasta
+149,213,bread
+149,213,milk
+150,242,dish soap
+150,242,yogurt
+150,242,water
+150,242,toothpaste
+151,52,tomatoes
+151,52,wine
+152,127,rice
+152,127,tomatoes
+152,127,eggs
+153,30,bananas
+153,30,hair spray
+153,30,garbage bags
+153,30,paper towels
+154,261,tea
+154,261,milk
+155,139,tea
+155,139,garbage bags
+155,139,beans
+156,226,tea
+156,226,chicken
+156,226,garbage bags
+156,226,wine
+157,71,deodorant
+157,71,tomatoes
+158,283,dish soap
+158,283,pasta
+158,283,face wash
+158,283,toilet paper
+159,300,paper towels
+159,300,butter
+160,89,eggs
+160,89,shampoo
+160,89,pasta
+161,195,cucumbers
+161,195,deodorant
+161,195,garbage bags
+162,300,dish soap
+162,300,beans
+163,46,wine
+163,46,toothpaste
+164,44,lotion
+164,44,water
+164,44,face wash
+164,44,coffee
+164,44,tea
+165,56,apples
+165,56,tomatoes
+165,56,coffee
+166,26,beef
+166,26,light bulbs
+166,26,deodorant
+166,26,hair spray
+166,26,detergent
+167,147,beans
+167,147,toilet paper
+167,147,tomatoes
+167,147,lotion
+168,123,toilet paper
+168,123,cheese
+168,123,face wash
+168,123,beer
+168,123,wine
+169,12,pasta
+169,12,toothpaste
+169,12,detergent
+169,12,light bulbs
+169,12,cleaning spray
+170,70,beef
+170,70,soda
+170,70,face wash
+170,70,chicken
+170,70,dish soap
+171,61,soap
+171,61,coffee
+171,61,apples
+172,11,rice
+172,11,toilet paper
+172,11,cucumbers
+172,11,tomatoes
+172,11,butter
+173,249,face wash
+173,249,chicken
+174,211,cleaning spray
+174,211,rice
+174,211,yogurt
+174,211,beef
+174,211,tomatoes
+175,289,toilet paper
+175,289,butter
+175,289,toothpaste
+175,289,juice
+175,289,cleaning spray
+176,211,shampoo
+176,211,cucumbers
+176,211,soda
+176,211,tomatoes
+176,211,rice
+177,139,milk
+177,139,soap
+178,205,wine
+178,205,soap
+178,205,chicken
+179,271,butter
+179,271,soap
+179,271,apples
+180,256,toothpaste
+180,256,pasta
+180,256,toilet paper
+180,256,tomatoes
+181,48,soap
+181,48,beef
+181,48,cleaning spray
+181,48,face wash
+182,109,milk
+182,109,beans
+182,109,soda
+182,109,dish soap
+182,109,pasta
+183,56,cucumbers
+183,56,coffee
+183,56,beef
+183,56,butter
+183,56,cleaning spray
+184,147,milk
+184,147,shampoo
+184,147,apples
+184,147,bananas
+184,147,juice
+185,143,beef
+185,143,toothpaste
+185,143,deodorant
+186,59,detergent
+186,59,coffee
+186,59,chicken
+186,59,beans
+186,59,shampoo
+187,227,chicken
+187,227,apples
+188,104,wine
+188,104,lotion
+188,104,butter
+189,142,cucumbers
+189,142,eggs
+189,142,soda
+190,154,hair spray
+190,154,beer
+191,4,beef
+191,4,coffee
+192,30,beer
+192,30,deodorant
+192,30,milk
+192,30,beef
+193,239,milk
+193,239,beans
+193,239,paper towels
+194,5,hair spray
+194,5,bread
+194,5,beef
+195,231,beans
+195,231,face wash
+195,231,butter
+195,231,bananas
+196,185,beef
+196,185,rice
+196,185,cucumbers
+196,185,cleaning spray
+197,155,tomatoes
+197,155,deodorant
+197,155,beans
+198,282,tea
+198,282,rice
+198,282,coffee
+199,149,tea
+199,149,lotion
+199,149,dish soap
+200,74,face wash
+200,74,shampoo
+200,74,butter
+200,74,hair spray
+201,276,chicken
+201,276,face wash
+201,276,eggs
+201,276,cheese
+201,276,beef
+202,133,toothpaste
+202,133,cheese
+202,133,cleaning spray
+202,133,paper towels
+202,133,bread
+203,5,milk
+203,5,lotion
+203,5,face wash
+203,5,bananas
+203,5,garbage bags
+204,57,eggs
+204,57,beer
+204,57,beef
+205,163,milk
+205,163,soda
+205,163,lotion
+205,163,toilet paper
+205,163,shampoo
+206,256,tea
+206,256,yogurt
+207,253,cucumbers
+207,253,rice
+207,253,water
+207,253,apples
+208,108,lotion
+208,108,soap
+209,31,chicken
+209,31,light bulbs
+209,31,tea
+210,96,coffee
+210,96,deodorant
+210,96,face wash
+210,96,dish soap
+211,223,beef
+211,223,hair spray
+211,223,face wash
+211,223,chicken
+212,71,garbage bags
+212,71,beans
+213,116,cucumbers
+213,116,light bulbs
+214,178,tea
+214,178,toilet paper
+215,284,cheese
+215,284,beef
+215,284,hair spray
+215,284,shampoo
+216,267,cucumbers
+216,267,yogurt
+217,63,cucumbers
+217,63,chicken
+217,63,garbage bags
+217,63,eggs
+217,63,milk
+218,96,bananas
+218,96,butter
+218,96,tea
+218,96,dish soap
+219,139,apples
+219,139,rice
+219,139,eggs
+219,139,detergent
+219,139,face wash
+220,169,detergent
+220,169,pasta
+220,169,face wash
+220,169,juice
+220,169,deodorant
+221,147,butter
+221,147,face wash
+221,147,toothpaste
+221,147,water
+222,297,dish soap
+222,297,pasta
+222,297,hair spray
+222,297,bread
+223,284,toilet paper
+223,284,cucumbers
+224,108,pasta
+224,108,beef
+224,108,tomatoes
+224,108,beer
+224,108,tea
+225,125,soap
+225,125,shampoo
+225,125,water
+225,125,cheese
+226,122,paper towels
+226,122,light bulbs
+226,122,dish soap
+226,122,wine
+227,250,soap
+227,250,toilet paper
+227,250,rice
+228,150,shampoo
+228,150,light bulbs
+228,150,garbage bags
+228,150,water
+229,273,cheese
+229,273,face wash
+229,273,dish soap
+229,273,toilet paper
+230,296,tea
+230,296,cheese
+230,296,shampoo
+230,296,cleaning spray
+231,259,water
+231,259,soda
+231,259,cheese
+231,259,lotion
+232,13,dish soap
+232,13,apples
+233,187,apples
+233,187,deodorant
+233,187,soda
+234,143,face wash
+234,143,lotion
+234,143,cucumbers
+234,143,wine
+234,143,yogurt
+235,223,lotion
+235,223,water
+235,223,tomatoes
+235,223,chicken
+236,29,shampoo
+236,29,beer
+237,244,deodorant
+237,244,yogurt
+237,244,paper towels
+237,244,water
+238,162,juice
+238,162,wine
+238,162,detergent
+238,162,eggs
+238,162,beans
+239,44,beer
+239,44,juice
+239,44,beef
+240,176,dish soap
+240,176,toilet paper
+240,176,water
+240,176,bananas
+241,74,tomatoes
+241,74,tea
+241,74,butter
+242,149,detergent
+242,149,milk
+243,275,cleaning spray
+243,275,toothpaste
+243,275,deodorant
+243,275,yogurt
+244,117,shampoo
+244,117,toothpaste
+244,117,beans
+245,190,shampoo
+245,190,paper towels
+245,190,light bulbs
+245,190,apples
+245,190,beer
+246,251,coffee
+246,251,beef
+246,251,cucumbers
+247,287,cleaning spray
+247,287,deodorant
+247,287,rice
+247,287,beans
+248,93,beef
+248,93,cucumbers
+248,93,rice
+248,93,paper towels
+249,73,cucumbers
+249,73,cleaning spray
+249,73,lotion
+249,73,hair spray
+250,260,cleaning spray
+250,260,lotion
+250,260,bread
+250,260,tomatoes
+251,228,water
+251,228,tea
+251,228,lotion
+251,228,garbage bags
+251,228,toilet paper
+252,277,beer
+252,277,pasta
+252,277,paper towels
+252,277,shampoo
+252,277,garbage bags
+253,97,chicken
+253,97,garbage bags
+253,97,cheese
+254,297,coffee
+254,297,beans
+255,247,cheese
+255,247,cucumbers
+255,247,beef
+255,247,juice
+256,255,soda
+256,255,tomatoes
+257,232,beef
+257,232,butter
+257,232,light bulbs
+258,125,milk
+258,125,toilet paper
+258,125,beer
+258,125,soda
+258,125,butter
+259,164,beef
+259,164,eggs
+260,244,beans
+260,244,dish soap
+260,244,toothpaste
+261,250,milk
+261,250,rice
+261,250,bread
+261,250,deodorant
+261,250,light bulbs
+262,21,apples
+262,21,rice
+262,21,hair spray
+263,79,yogurt
+263,79,beef
+263,79,face wash
+263,79,light bulbs
+263,79,hair spray
+264,213,soap
+264,213,pasta
+264,213,bread
+265,216,butter
+265,216,lotion
+265,216,coffee
+265,216,toothpaste
+266,158,dish soap
+266,158,beef
+266,158,soda
+267,207,dish soap
+267,207,toothpaste
+267,207,toilet paper
+268,6,beer
+268,6,soap
+268,6,paper towels
+269,214,cucumbers
+269,214,water
+269,214,pasta
+270,118,shampoo
+270,118,hair spray
+270,118,dish soap
+270,118,beer
+271,178,paper towels
+271,178,cheese
+271,178,juice
+271,178,tea
+272,287,light bulbs
+272,287,bananas
+272,287,apples
+272,287,water
+272,287,paper towels
+273,131,apples
+273,131,cheese
+274,111,apples
+274,111,juice
+274,111,toothpaste
+274,111,yogurt
+275,189,garbage bags
+275,189,bread
+275,189,bananas
+275,189,lotion
+276,70,cheese
+276,70,rice
+276,70,hair spray
+277,103,shampoo
+277,103,garbage bags
+277,103,bananas
+277,103,dish soap
+277,103,milk
+278,257,cucumbers
+278,257,water
+278,257,bread
+278,257,chicken
+279,254,pasta
+279,254,rice
+279,254,soap
+279,254,deodorant
+280,146,cucumbers
+280,146,hair spray
+280,146,cleaning spray
+281,204,bread
+281,204,toilet paper
+281,204,lotion
+281,204,paper towels
+281,204,rice
+282,15,face wash
+282,15,shampoo
+282,15,apples
+282,15,deodorant
+283,115,wine
+283,115,deodorant
+283,115,butter
+283,115,eggs
+284,203,beans
+284,203,soda
+285,87,coffee
+285,87,yogurt
+286,126,rice
+286,126,bananas
+287,273,tomatoes
+287,273,bread
+287,273,juice
+288,177,shampoo
+288,177,lotion
+288,177,pasta
+288,177,soap
+288,177,rice
+289,79,dish soap
+289,79,beer
+289,79,light bulbs
+289,79,tomatoes
+289,79,cleaning spray
+290,272,pasta
+290,272,chicken
+291,178,deodorant
+291,178,face wash
+292,237,pasta
+292,237,apples
+292,237,toothpaste
+292,237,eggs
+292,237,garbage bags
+293,207,eggs
+293,207,juice
+293,207,beans
+293,207,milk
+294,16,bread
+294,16,garbage bags
+294,16,paper towels
+295,186,rice
+295,186,juice
+295,186,cheese
+295,186,beer
+296,78,cucumbers
+296,78,dish soap
+297,56,soda
+297,56,tea
+298,232,garbage bags
+298,232,deodorant
+298,232,juice
+299,67,coffee
+299,67,detergent
+299,67,beer
+300,291,light bulbs
+300,291,bread
+301,202,shampoo
+301,202,lotion
+302,21,light bulbs
+302,21,soap
+302,21,shampoo
+303,89,toothpaste
+303,89,deodorant
+304,274,yogurt
+304,274,lotion
+304,274,hair spray
+305,210,lotion
+305,210,tea
+305,210,detergent
+305,210,toilet paper
+306,97,toothpaste
+306,97,cleaning spray
+306,97,beer
+307,226,yogurt
+307,226,cheese
+307,226,lotion
+307,226,tea
+307,226,beef
+308,197,beans
+308,197,butter
+308,197,face wash
+309,288,beer
+309,288,paper towels
+310,36,detergent
+310,36,cleaning spray
+310,36,apples
+310,36,cheese
+310,36,milk
+311,106,milk
+311,106,cleaning spray
+311,106,toilet paper
+311,106,cucumbers
+312,169,beans
+312,169,yogurt
+312,169,soap
+313,105,cleaning spray
+313,105,rice
+313,105,chicken
+314,104,soap
+314,104,cleaning spray
+315,194,water
+315,194,light bulbs
+316,296,coffee
+316,296,milk
+316,296,light bulbs
+316,296,water
+316,296,yogurt
+317,232,soap
+317,232,beef
+317,232,lotion
+317,232,paper towels
+317,232,soda
+318,125,juice
+318,125,soap
+318,125,light bulbs
+318,125,toilet paper
+319,149,light bulbs
+319,149,cucumbers
+319,149,tomatoes
+319,149,toilet paper
+320,268,cheese
+320,268,soap
+320,268,deodorant
+320,268,rice
+320,268,detergent
+321,31,butter
+321,31,coffee
+321,31,detergent
+322,221,light bulbs
+322,221,pasta
+323,29,bread
+323,29,eggs
+323,29,bananas
+323,29,face wash
+323,29,milk
+324,248,tomatoes
+324,248,lotion
+324,248,water
+324,248,coffee
+324,248,toothpaste
+325,144,cleaning spray
+325,144,yogurt
+325,144,bananas
+326,68,deodorant
+326,68,detergent
+326,68,garbage bags
+327,185,yogurt
+327,185,bread
+327,185,pasta
+327,185,hair spray
+327,185,light bulbs
+328,174,paper towels
+328,174,tomatoes
+328,174,wine
+329,267,beans
+329,267,tea
+330,241,beef
+330,241,yogurt
+330,241,rice
+330,241,paper towels
+330,241,toilet paper
+331,228,rice
+331,228,chicken
+331,228,coffee
+331,228,face wash
+332,12,toothpaste
+332,12,water
+332,12,coffee
+332,12,toilet paper
+333,291,butter
+333,291,soap
+333,291,tea
+333,291,wine
+333,291,apples
+334,257,rice
+334,257,dish soap
+335,42,apples
+335,42,eggs
+335,42,light bulbs
+336,193,beef
+336,193,soap
+336,193,water
+337,275,soda
+337,275,tomatoes
+337,275,face wash
+337,275,coffee
+338,292,deodorant
+338,292,water
+338,292,chicken
+338,292,apples
+338,292,tomatoes
+339,170,cheese
+339,170,cleaning spray
+340,114,tea
+340,114,coffee
+340,114,cleaning spray
+340,114,cucumbers
+341,15,butter
+341,15,toothpaste
+341,15,chicken
+341,15,pasta
+342,156,tea
+342,156,garbage bags
+342,156,juice
+342,156,yogurt
+343,290,soap
+343,290,pasta
+343,290,coffee
+343,290,tomatoes
+344,131,yogurt
+344,131,paper towels
+344,131,detergent
+344,131,light bulbs
+345,44,detergent
+345,44,chicken
+345,44,butter
+345,44,cucumbers
+346,231,hair spray
+346,231,wine
+346,231,shampoo
+346,231,dish soap
+347,152,lotion
+347,152,light bulbs
+347,152,eggs
+348,90,tea
+348,90,dish soap
+348,90,light bulbs
+348,90,water
+348,90,milk
+349,277,deodorant
+349,277,hair spray
+350,146,cleaning spray
+350,146,cheese
+351,140,hair spray
+351,140,pasta
+351,140,deodorant
+352,32,bananas
+352,32,tea
+352,32,toothpaste
+352,32,yogurt
+352,32,pasta
+353,138,toilet paper
+353,138,shampoo
+353,138,dish soap
+353,138,wine
+354,231,cheese
+354,231,tomatoes
+355,124,coffee
+355,124,paper towels
+355,124,cleaning spray
+355,124,beans
+355,124,tomatoes
+356,67,tea
+356,67,beer
+356,67,detergent
+356,67,beef
+356,67,apples
+357,100,toilet paper
+357,100,yogurt
+357,100,shampoo
+358,191,milk
+358,191,paper towels
+358,191,tea
+359,61,cucumbers
+359,61,milk
+359,61,tea
+359,61,garbage bags
+360,58,deodorant
+360,58,toilet paper
+360,58,juice
+361,96,bread
+361,96,paper towels
+361,96,light bulbs
+362,248,shampoo
+362,248,wine
+363,253,beef
+363,253,detergent
+363,253,beer
+363,253,pasta
+364,186,chicken
+364,186,face wash
+365,218,water
+365,218,pasta
+365,218,garbage bags
+366,57,bananas
+366,57,soap
+366,57,toothpaste
+366,57,lotion
+366,57,milk
+367,214,bananas
+367,214,coffee
+367,214,soap
+367,214,lotion
+367,214,butter
+368,261,juice
+368,261,detergent
+368,261,tea
+368,261,paper towels
+368,261,water
+369,220,shampoo
+369,220,hair spray
+369,220,tomatoes
+370,298,detergent
+370,298,wine
+370,298,face wash
+370,298,bread
+371,66,paper towels
+371,66,bread
+371,66,dish soap
+371,66,chicken
+372,66,lotion
+372,66,water
+372,66,garbage bags
+373,45,chicken
+373,45,rice
+373,45,face wash
+373,45,detergent
+374,206,dish soap
+374,206,detergent
+374,206,face wash
+375,29,paper towels
+375,29,cheese
+376,14,detergent
+376,14,yogurt
+376,14,juice
+376,14,beef
+376,14,light bulbs
+377,152,dish soap
+377,152,paper towels
+377,152,deodorant
+378,258,bananas
+378,258,face wash
+379,111,juice
+379,111,light bulbs
+380,56,cleaning spray
+380,56,juice
+380,56,toothpaste
+381,162,hair spray
+381,162,lotion
+381,162,tea
+381,162,milk
+381,162,bananas
+382,100,water
+382,100,beans
+383,39,face wash
+383,39,wine
+383,39,tea
+383,39,bananas
+384,78,cucumbers
+384,78,garbage bags
+384,78,light bulbs
+384,78,bananas
+385,148,toothpaste
+385,148,shampoo
+386,15,coffee
+386,15,cleaning spray
+386,15,juice
+386,15,pasta
+386,15,soap
+387,20,rice
+387,20,coffee
+387,20,toilet paper
+387,20,shampoo
+388,291,cleaning spray
+388,291,water
+388,291,lotion
+388,291,apples
+389,231,butter
+389,231,soap
+389,231,toothpaste
+389,231,wine
+390,38,paper towels
+390,38,pasta
+390,38,rice
+391,75,beans
+391,75,beer
+392,237,bread
+392,237,tomatoes
+392,237,detergent
+392,237,coffee
+392,237,beef
+393,293,apples
+393,293,tomatoes
+393,293,cleaning spray
+394,221,water
+394,221,wine
+395,67,toothpaste
+395,67,cheese
+395,67,toilet paper
+396,95,bananas
+396,95,tomatoes
+396,95,beer
+396,95,soap
+396,95,water
+397,271,hair spray
+397,271,beer
+397,271,cheese
+398,265,paper towels
+398,265,toilet paper
+398,265,garbage bags
+399,28,juice
+399,28,toothpaste
+399,28,paper towels
+399,28,cheese
+400,240,soda
+400,240,soap
+401,14,rice
+401,14,soda
+401,14,light bulbs
+401,14,bananas
+402,251,hair spray
+402,251,toothpaste
+402,251,beer
+402,251,soda
+402,251,eggs
+403,72,lotion
+403,72,juice
+403,72,water
+403,72,wine
+404,159,soap
+404,159,hair spray
+404,159,face wash
+405,287,soap
+405,287,bananas
+406,202,apples
+406,202,beans
+406,202,chicken
+407,76,detergent
+407,76,beef
+407,76,garbage bags
+407,76,cleaning spray
+408,49,paper towels
+408,49,shampoo
+408,49,cheese
+409,225,tomatoes
+409,225,juice
+409,225,bread
+409,225,light bulbs
+410,104,beans
+410,104,milk
+410,104,wine
+410,104,light bulbs
+411,270,toilet paper
+411,270,cleaning spray
+412,152,tea
+412,152,soda
+412,152,soap
+412,152,water
+413,244,wine
+413,244,eggs
+413,244,detergent
+414,71,face wash
+414,71,cleaning spray
+414,71,bananas
+414,71,rice
+414,71,beans
+415,176,wine
+415,176,apples
+415,176,pasta
+415,176,soap
+416,90,rice
+416,90,garbage bags
+416,90,shampoo
+416,90,apples
+416,90,tea
+417,2,lotion
+417,2,eggs
+417,2,apples
+417,2,wine
+418,110,beer
+418,110,wine
+419,116,deodorant
+419,116,chicken
+419,116,beef
+419,116,juice
+420,290,soda
+420,290,shampoo
+420,290,hair spray
+420,290,face wash
+421,82,water
+421,82,lotion
+422,262,deodorant
+422,262,chicken
+422,262,yogurt
+423,196,dish soap
+423,196,tea
+423,196,coffee
+423,196,wine
+424,299,tea
+424,299,dish soap
+424,299,soap
+424,299,yogurt
+424,299,butter
+425,299,apples
+425,299,chicken
+425,299,hair spray
+425,299,eggs
+425,299,pasta
+426,14,beer
+426,14,beef
+426,14,light bulbs
+426,14,apples
+426,14,toothpaste
+427,189,lotion
+427,189,bread
+428,224,bread
+428,224,beans
+428,224,soda
+428,224,cleaning spray
+428,224,toilet paper
+429,3,cucumbers
+429,3,cheese
+429,3,tomatoes
+429,3,paper towels
+429,3,eggs
+430,81,milk
+430,81,pasta
+430,81,cleaning spray
+430,81,face wash
+430,81,toothpaste
+431,95,beef
+431,95,soda
+431,95,cucumbers
+431,95,eggs
+431,95,tomatoes
+432,263,beans
+432,263,tomatoes
+432,263,bananas
+432,263,cucumbers
+432,263,beer
+433,263,rice
+433,263,eggs
+433,263,face wash
+433,263,toilet paper
+434,177,chicken
+434,177,garbage bags
+435,38,tea
+435,38,wine
+436,57,cheese
+436,57,eggs
+436,57,garbage bags
+436,57,rice
+437,10,tomatoes
+437,10,cleaning spray
+438,42,beer
+438,42,beans
+439,79,juice
+439,79,toothpaste
+439,79,coffee
+439,79,lotion
+440,105,tomatoes
+440,105,cleaning spray
+440,105,bread
+440,105,cucumbers
+440,105,toothpaste
+441,149,cucumbers
+441,149,light bulbs
+441,149,cleaning spray
+441,149,paper towels
+441,149,tomatoes
+442,116,detergent
+442,116,bread
+443,212,bread
+443,212,cheese
+443,212,wine
+443,212,garbage bags
+444,129,lotion
+444,129,toothpaste
+444,129,beer
+445,190,milk
+445,190,paper towels
+445,190,detergent
+446,95,light bulbs
+446,95,yogurt
+446,95,hair spray
+446,95,juice
+446,95,bread
+447,62,wine
+447,62,toothpaste
+447,62,lotion
+448,151,toilet paper
+448,151,tea
+448,151,cucumbers
+448,151,soda
+448,151,milk
+449,220,beef
+449,220,light bulbs
+450,77,soda
+450,77,dish soap
+450,77,milk
+450,77,shampoo
+450,77,wine
+451,142,rice
+451,142,juice
+452,47,tomatoes
+452,47,toilet paper
+452,47,beans
+452,47,juice
+453,119,beer
+453,119,juice
+453,119,light bulbs
+453,119,cucumbers
+454,59,water
+454,59,face wash
+454,59,lotion
+455,243,wine
+455,243,bread
+455,243,beans
+456,65,cheese
+456,65,pasta
+457,34,dish soap
+457,34,cucumbers
+457,34,light bulbs
+457,34,water
+457,34,apples
+458,240,lotion
+458,240,light bulbs
+458,240,cleaning spray
+459,29,juice
+459,29,beans
+459,29,coffee
+459,29,beer
+459,29,cleaning spray
+460,96,toothpaste
+460,96,tomatoes
+460,96,milk
+461,178,soda
+461,178,yogurt
+461,178,cleaning spray
+461,178,lotion
+461,178,chicken
+462,63,tea
+462,63,toothpaste
+463,280,tomatoes
+463,280,cucumbers
+463,280,juice
+463,280,bananas
+464,266,light bulbs
+464,266,face wash
+464,266,water
+465,90,bread
+465,90,apples
+465,90,tea
+465,90,bananas
+465,90,water
+466,221,light bulbs
+466,221,shampoo
+467,268,bananas
+467,268,bread
+467,268,hair spray
+467,268,wine
+468,164,soda
+468,164,bread
+469,50,coffee
+469,50,tea
+469,50,hair spray
+469,50,butter
+470,55,pasta
+470,55,beans
+471,104,yogurt
+471,104,toilet paper
+471,104,garbage bags
+471,104,tea
+471,104,hair spray
+472,124,pasta
+472,124,juice
+472,124,coffee
+472,124,dish soap
+473,172,pasta
+473,172,milk
+473,172,hair spray
+473,172,face wash
+473,172,chicken
+474,290,tomatoes
+474,290,cheese
+475,56,soap
+475,56,juice
+475,56,detergent
+475,56,tomatoes
+476,2,deodorant
+476,2,apples
+476,2,tomatoes
+476,2,light bulbs
+476,2,coffee
+477,193,cucumbers
+477,193,soda
+478,37,beef
+478,37,yogurt
+478,37,paper towels
+478,37,rice
+478,37,tea
+479,299,detergent
+479,299,soda
+479,299,paper towels
+479,299,shampoo
+479,299,cucumbers
+480,21,water
+480,21,light bulbs
+481,200,beef
+481,200,detergent
+481,200,beer
+482,8,tea
+482,8,lotion
+483,97,toothpaste
+483,97,tomatoes
+483,97,cheese
+483,97,beans
+484,159,bananas
+484,159,toothpaste
+485,1,juice
+485,1,chicken
+485,1,yogurt
+485,1,butter
+486,297,dish soap
+486,297,soda
+486,297,juice
+487,185,rice
+487,185,pasta
+487,185,bread
+487,185,juice
+488,45,beer
+488,45,chicken
+489,158,coffee
+489,158,lotion
+490,196,detergent
+490,196,cheese
+490,196,bread
+490,196,bananas
+491,97,beans
+491,97,yogurt
+491,97,lotion
+491,97,garbage bags
+491,97,beef
+492,112,soda
+492,112,cucumbers
+493,229,light bulbs
+493,229,hair spray
+493,229,eggs
+493,229,bananas
+494,19,paper towels
+494,19,yogurt
+494,19,garbage bags
+494,19,soda
+494,19,soap
+495,274,lotion
+495,274,garbage bags
+496,8,pasta
+496,8,beef
+497,181,bread
+497,181,deodorant
+497,181,paper towels
+497,181,beer
+497,181,garbage bags
+498,15,soap
+498,15,bread
+499,256,beans
+499,256,paper towels
+499,256,toothpaste
+499,256,apples
+500,288,deodorant
+500,288,dish soap
+500,288,rice
+500,288,eggs
+500,288,beer
+501,59,toothpaste
+501,59,lotion
+502,259,tomatoes
+502,259,wine
+502,259,apples
+502,259,water
+503,128,shampoo
+503,128,dish soap
+503,128,chicken
+503,128,tomatoes
+503,128,detergent
+504,128,toothpaste
+504,128,face wash
+504,128,deodorant
+504,128,detergent
+505,37,beef
+505,37,shampoo
+505,37,face wash
+505,37,cleaning spray
+505,37,apples
+506,253,light bulbs
+506,253,beer
+507,278,soap
+507,278,coffee
+507,278,light bulbs
+507,278,butter
+507,278,pasta
+508,119,water
+508,119,soap
+509,91,hair spray
+509,91,bananas
+509,91,cheese
+510,257,dish soap
+510,257,milk
+511,175,rice
+511,175,bread
+511,175,tea
+512,93,butter
+512,93,eggs
+512,93,light bulbs
+512,93,beans
+513,130,light bulbs
+513,130,milk
+514,167,shampoo
+514,167,toothpaste
+514,167,beans
+514,167,butter
+515,224,toothpaste
+515,224,beans
+515,224,beef
+515,224,eggs
+516,293,wine
+516,293,juice
+516,293,apples
+517,273,hair spray
+517,273,chicken
+518,290,cheese
+518,290,paper towels
+518,290,deodorant
+519,82,toothpaste
+519,82,apples
+519,82,garbage bags
+520,270,rice
+520,270,face wash
+521,25,beer
+521,25,soap
+521,25,butter
+521,25,hair spray
+522,128,cleaning spray
+522,128,toilet paper
+522,128,yogurt
+522,128,tea
+523,246,beer
+523,246,toothpaste
+524,89,wine
+524,89,beans
+524,89,detergent
+524,89,soda
+524,89,butter
+525,186,yogurt
+525,186,garbage bags
+526,16,milk
+526,16,light bulbs
+526,16,toilet paper
+526,16,garbage bags
+526,16,toothpaste
+527,8,bananas
+527,8,water
+527,8,eggs
+528,47,deodorant
+528,47,face wash
+529,240,toothpaste
+529,240,toilet paper
+530,252,cucumbers
+530,252,dish soap
+530,252,coffee
+530,252,wine
+530,252,hair spray
+531,172,milk
+531,172,soda
+531,172,tea
+532,237,cheese
+532,237,beans
+532,237,eggs
+532,237,apples
+532,237,soap
+533,241,paper towels
+533,241,apples
+533,241,yogurt
+534,133,bread
+534,133,juice
+534,133,beef
+535,263,yogurt
+535,263,beer
+535,263,beans
+535,263,dish soap
+536,91,eggs
+536,91,cleaning spray
+537,166,tomatoes
+537,166,chicken
+537,166,cucumbers
+537,166,yogurt
+537,166,soap
+538,238,paper towels
+538,238,toothpaste
+538,238,wine
+538,238,beer
+539,207,bananas
+539,207,face wash
+539,207,butter
+539,207,cheese
+540,140,bananas
+540,140,pasta
+540,140,chicken
+541,227,face wash
+541,227,toilet paper
+541,227,pasta
+542,177,lotion
+542,177,garbage bags
+542,177,soap
+543,110,beef
+543,110,soap
+543,110,juice
+543,110,soda
+544,182,toothpaste
+544,182,tomatoes
+544,182,shampoo
+545,242,deodorant
+545,242,rice
+546,277,garbage bags
+546,277,shampoo
+547,276,paper towels
+547,276,tomatoes
+547,276,pasta
+547,276,beans
+547,276,coffee
+548,208,tomatoes
+548,208,cleaning spray
+548,208,milk
+548,208,toothpaste
+549,92,bananas
+549,92,toilet paper
+550,105,cheese
+550,105,paper towels
+550,105,garbage bags
+550,105,toothpaste
+551,74,tomatoes
+551,74,cheese
+551,74,beef
+551,74,toilet paper
+551,74,shampoo
+552,119,bread
+552,119,garbage bags
+552,119,tea
+552,119,beer
+552,119,pasta
+553,148,cleaning spray
+553,148,beer
+554,270,toothpaste
+554,270,shampoo
+554,270,garbage bags
+554,270,paper towels
+555,23,toilet paper
+555,23,paper towels
+555,23,bread
+555,23,cheese
+556,95,detergent
+556,95,juice
+556,95,chicken
+557,159,beans
+557,159,rice
+557,159,wine
+557,159,beer
+558,187,garbage bags
+558,187,wine
+559,203,shampoo
+559,203,butter
+559,203,dish soap
+559,203,face wash
+559,203,tea
+560,161,soap
+560,161,detergent
+560,161,beef
+560,161,toilet paper
+560,161,tomatoes
+561,263,tea
+561,263,soda
+561,263,wine
+562,261,shampoo
+562,261,milk
+562,261,wine
+562,261,tea
+563,64,cleaning spray
+563,64,cheese
+563,64,cucumbers
+563,64,eggs
+563,64,dish soap
+564,185,dish soap
+564,185,toothpaste
+564,185,garbage bags
+564,185,pasta
+564,185,deodorant
+565,274,cucumbers
+565,274,cleaning spray
+565,274,dish soap
+565,274,juice
+566,172,tea
+566,172,butter
+567,205,deodorant
+567,205,shampoo
+567,205,beef
+567,205,coffee
+567,205,eggs
+568,73,soda
+568,73,detergent
+569,231,pasta
+569,231,shampoo
+569,231,yogurt
+569,231,beef
+569,231,light bulbs
+570,187,water
+570,187,paper towels
+570,187,apples
+571,135,beer
+571,135,beef
+572,261,soap
+572,261,soda
+572,261,tomatoes
+573,80,juice
+573,80,cheese
+574,224,bananas
+574,224,tea
+574,224,dish soap
+574,224,shampoo
+575,195,lotion
+575,195,apples
+575,195,toothpaste
+575,195,butter
+575,195,toilet paper
+576,285,detergent
+576,285,apples
+576,285,face wash
+577,149,bananas
+577,149,coffee
+577,149,soap
+577,149,hair spray
+577,149,milk
+578,131,cheese
+578,131,tomatoes
+578,131,yogurt
+578,131,beef
+578,131,paper towels
+579,150,toilet paper
+579,150,bread
+579,150,milk
+579,150,paper towels
+580,63,yogurt
+580,63,eggs
+580,63,soda
+581,41,yogurt
+581,41,detergent
+582,274,bananas
+582,274,bread
+582,274,water
+582,274,apples
+583,174,deodorant
+583,174,soap
+583,174,butter
+583,174,beer
+583,174,eggs
+584,70,dish soap
+584,70,apples
+584,70,yogurt
+585,223,soda
+585,223,soap
+585,223,shampoo
+585,223,detergent
+586,9,yogurt
+586,9,toilet paper
+586,9,water
+586,9,eggs
+587,236,tea
+587,236,toothpaste
+587,236,hair spray
+588,153,cleaning spray
+588,153,toilet paper
+589,6,yogurt
+589,6,beef
+589,6,beer
+590,125,tomatoes
+590,125,eggs
+590,125,butter
+590,125,wine
+590,125,soap
+591,27,light bulbs
+591,27,eggs
+591,27,yogurt
+591,27,beans
+592,283,cleaning spray
+592,283,dish soap
+592,283,coffee
+593,150,bananas
+593,150,soap
+593,150,soda
+593,150,beans
+593,150,light bulbs
+594,159,beef
+594,159,tomatoes
+594,159,juice
+594,159,yogurt
+594,159,apples
+595,141,chicken
+595,141,lotion
+596,125,juice
+596,125,pasta
+597,239,dish soap
+597,239,juice
+597,239,cleaning spray
+597,239,hair spray
+598,244,toothpaste
+598,244,juice
+598,244,soda
+599,31,tomatoes
+599,31,milk
+600,138,soda
+600,138,hair spray
+600,138,apples
+601,248,dish soap
+601,248,rice
+601,248,bread
+601,248,tea
+602,47,deodorant
+602,47,dish soap
+602,47,cheese
+602,47,toilet paper
+603,51,juice
+603,51,toothpaste
+603,51,beef
+603,51,pasta
+604,247,pasta
+604,247,toilet paper
+604,247,bananas
+604,247,tea
+604,247,beef
+605,66,pasta
+605,66,beans
+606,119,face wash
+606,119,tea
+606,119,toothpaste
+606,119,light bulbs
+607,51,shampoo
+607,51,bananas
+608,225,wine
+608,225,chicken
+608,225,milk
+608,225,soda
+608,225,shampoo
+609,19,chicken
+609,19,paper towels
+609,19,pasta
+610,166,yogurt
+610,166,beans
+610,166,bread
+611,57,water
+611,57,toilet paper
+611,57,yogurt
+611,57,apples
+612,34,detergent
+612,34,face wash
+612,34,tea
+612,34,garbage bags
+613,184,bananas
+613,184,apples
+614,207,wine
+614,207,milk
+615,59,chicken
+615,59,bread
+616,11,detergent
+616,11,hair spray
+616,11,light bulbs
+616,11,butter
+616,11,beer
+617,29,tomatoes
+617,29,beer
+617,29,dish soap
+618,83,soda
+618,83,apples
+618,83,shampoo
+618,83,cheese
+618,83,chicken
+619,185,soda
+619,185,toilet paper
+619,185,hair spray
+620,63,milk
+620,63,deodorant
+620,63,cucumbers
+621,60,detergent
+621,60,toothpaste
+621,60,toilet paper
+621,60,garbage bags
+621,60,wine
+622,185,bananas
+622,185,tomatoes
+622,185,toothpaste
+622,185,beans
+622,185,eggs
+623,159,wine
+623,159,water
+624,200,face wash
+624,200,toothpaste
+624,200,butter
+624,200,milk
+624,200,juice
+625,203,lotion
+625,203,paper towels
+625,203,rice
+626,287,chicken
+626,287,toilet paper
+626,287,tea
+626,287,toothpaste
+627,163,toothpaste
+627,163,face wash
+628,16,light bulbs
+628,16,cleaning spray
+628,16,juice
+628,16,coffee
+628,16,rice
+629,248,pasta
+629,248,face wash
+629,248,apples
+629,248,paper towels
+630,172,juice
+630,172,beer
+630,172,toilet paper
+630,172,pasta
+630,172,shampoo
+631,262,shampoo
+631,262,hair spray
+632,190,cheese
+632,190,beef
+632,190,milk
+633,43,butter
+633,43,detergent
+633,43,bread
+633,43,wine
+634,289,bread
+634,289,bananas
+635,22,hair spray
+635,22,dish soap
+635,22,butter
+635,22,garbage bags
+635,22,soda
+636,243,deodorant
+636,243,coffee
+636,243,cheese
+636,243,soap
+636,243,soda
+637,273,beef
+637,273,juice
+638,147,toothpaste
+638,147,apples
+638,147,hair spray
+638,147,soda
+638,147,eggs
+639,93,bananas
+639,93,bread
+640,43,yogurt
+640,43,detergent
+640,43,beans
+640,43,dish soap
+641,142,dish soap
+641,142,rice
+641,142,water
+641,142,juice
+641,142,beer
+642,140,rice
+642,140,water
+643,198,coffee
+643,198,light bulbs
+643,198,eggs
+643,198,tea
+643,198,bread
+644,50,lotion
+644,50,dish soap
+645,134,pasta
+645,134,light bulbs
+646,270,eggs
+646,270,tea
+646,270,pasta
+646,270,bread
+647,136,pasta
+647,136,detergent
+647,136,cheese
+647,136,soap
+647,136,cucumbers
+648,206,yogurt
+648,206,hair spray
+648,206,cheese
+648,206,toilet paper
+649,149,beer
+649,149,toothpaste
+650,285,pasta
+650,285,milk
+650,285,yogurt
+650,285,cleaning spray
+650,285,rice
+651,152,beef
+651,152,toothpaste
+652,229,tomatoes
+652,229,face wash
+652,229,light bulbs
+652,229,yogurt
+653,161,water
+653,161,bread
+653,161,cucumbers
+653,161,coffee
+654,51,juice
+654,51,cleaning spray
+654,51,garbage bags
+654,51,toothpaste
+654,51,light bulbs
+655,3,hair spray
+655,3,tomatoes
+655,3,wine
+655,3,soda
+655,3,detergent
+656,120,soap
+656,120,lotion
+656,120,butter
+656,120,beans
+657,202,cleaning spray
+657,202,soap
+657,202,lotion
+658,9,face wash
+658,9,detergent
+659,245,cucumbers
+659,245,beer
+659,245,beans
+659,245,paper towels
+660,230,juice
+660,230,butter
+660,230,water
+660,230,garbage bags
+660,230,lotion
+661,12,shampoo
+661,12,lotion
+661,12,wine
+662,280,dish soap
+662,280,cheese
+662,280,face wash
+662,280,coffee
+663,298,juice
+663,298,detergent
+663,298,wine
+663,298,tomatoes
+663,298,garbage bags
+664,32,hair spray
+664,32,milk
+664,32,light bulbs
+664,32,cleaning spray
+665,201,hair spray
+665,201,soda
+665,201,cucumbers
+665,201,paper towels
+665,201,garbage bags
+666,300,dish soap
+666,300,shampoo
+666,300,deodorant
+666,300,soda
+666,300,coffee
+667,122,beef
+667,122,cleaning spray
+667,122,dish soap
+667,122,bananas
+668,46,water
+668,46,yogurt
+668,46,toilet paper
+668,46,shampoo
+668,46,apples
+669,96,tomatoes
+669,96,bread
+669,96,detergent
+669,96,rice
+669,96,cheese
+670,18,lotion
+670,18,soap
+670,18,beef
+670,18,light bulbs
+671,19,beef
+671,19,chicken
+671,19,shampoo
+672,61,shampoo
+672,61,cheese
+673,161,coffee
+673,161,toilet paper
+673,161,beer
+674,112,juice
+674,112,detergent
+675,52,garbage bags
+675,52,tomatoes
+676,37,cucumbers
+676,37,face wash
+677,74,hair spray
+677,74,toothpaste
+677,74,cleaning spray
+677,74,cheese
+678,231,beer
+678,231,face wash
+679,51,cheese
+679,51,apples
+679,51,hair spray
+679,51,yogurt
+679,51,shampoo
+680,237,lotion
+680,237,detergent
+680,237,beef
+680,237,bread
+680,237,cleaning spray
+681,178,milk
+681,178,shampoo
+681,178,beef
+682,227,yogurt
+682,227,dish soap
+682,227,hair spray
+682,227,coffee
+683,148,water
+683,148,eggs
+683,148,milk
+683,148,soap
+684,88,toothpaste
+684,88,shampoo
+684,88,cucumbers
+684,88,bread
+684,88,cheese
+685,76,apples
+685,76,soda
+685,76,beef
+686,136,soap
+686,136,beer
+687,118,butter
+687,118,apples
+687,118,cucumbers
+687,118,eggs
+687,118,bananas
+688,116,butter
+688,116,face wash
+688,116,light bulbs
+688,116,tea
+689,41,deodorant
+689,41,face wash
+689,41,cleaning spray
+689,41,detergent
+690,11,garbage bags
+690,11,tea
+691,13,yogurt
+691,13,water
+691,13,bananas
+692,191,bread
+692,191,lotion
+692,191,light bulbs
+692,191,beans
+692,191,tea
+693,4,beef
+693,4,coffee
+693,4,tomatoes
+693,4,bananas
+694,45,coffee
+694,45,milk
+694,45,soda
+694,45,toothpaste
+695,100,beans
+695,100,pasta
+695,100,tomatoes
+695,100,light bulbs
+695,100,rice
+696,281,garbage bags
+696,281,pasta
+696,281,bread
+696,281,toilet paper
+696,281,beans
+697,121,bananas
+697,121,hair spray
+697,121,water
+697,121,detergent
+698,174,coffee
+698,174,deodorant
+698,174,face wash
+698,174,cleaning spray
+698,174,lotion
+699,34,paper towels
+699,34,toilet paper
+699,34,wine
+699,34,deodorant
+699,34,tomatoes
+700,165,milk
+700,165,beans
+700,165,juice
+700,165,dish soap
+701,129,butter
+701,129,cheese
+702,297,milk
+702,297,chicken
+702,297,deodorant
+702,297,rice
+703,13,juice
+703,13,bananas
+703,13,beer
+703,13,soda
+703,13,water
+704,143,light bulbs
+704,143,coffee
+705,197,cheese
+705,197,tomatoes
+706,41,light bulbs
+706,41,yogurt
+706,41,coffee
+706,41,cucumbers
+706,41,water
+707,146,bread
+707,146,butter
+707,146,cleaning spray
+707,146,apples
+707,146,coffee
+708,183,chicken
+708,183,deodorant
+708,183,coffee
+708,183,beef
+708,183,beans
+709,216,bananas
+709,216,juice
+710,109,lotion
+710,109,detergent
+710,109,dish soap
+711,132,cheese
+711,132,lotion
+712,292,dish soap
+712,292,face wash
+712,292,tea
+712,292,coffee
+712,292,soap
+713,89,paper towels
+713,89,chicken
+713,89,toilet paper
+714,95,butter
+714,95,bananas
+715,22,coffee
+715,22,shampoo
+715,22,eggs
+716,185,lotion
+716,185,deodorant
+716,185,bread
+716,185,hair spray
+717,274,deodorant
+717,274,apples
+717,274,cucumbers
+718,139,tea
+718,139,garbage bags
+719,169,beans
+719,169,cucumbers
+719,169,cheese
+719,169,soda
+719,169,detergent
+720,118,toilet paper
+720,118,cucumbers
+721,165,beef
+721,165,eggs
+721,165,dish soap
+722,259,deodorant
+722,259,coffee
+722,259,cheese
+722,259,toothpaste
+723,258,dish soap
+723,258,chicken
+723,258,toothpaste
+723,258,soap
+724,240,tea
+724,240,face wash
+725,93,butter
+725,93,toilet paper
+725,93,hair spray
+725,93,yogurt
+726,147,lotion
+726,147,light bulbs
+726,147,cleaning spray
+727,201,light bulbs
+727,201,eggs
+727,201,rice
+727,201,soda
+727,201,soap
+728,177,soap
+728,177,hair spray
+728,177,dish soap
+728,177,soda
+729,74,face wash
+729,74,soda
+729,74,yogurt
+730,264,garbage bags
+730,264,wine
+730,264,butter
+730,264,milk
+730,264,toothpaste
+731,208,cucumbers
+731,208,light bulbs
+732,16,hair spray
+732,16,pasta
+732,16,juice
+732,16,toilet paper
+733,278,beans
+733,278,toilet paper
+733,278,toothpaste
+734,83,paper towels
+734,83,coffee
+734,83,cheese
+734,83,dish soap
+734,83,tomatoes
+735,139,milk
+735,139,pasta
+735,139,beer
+735,139,tomatoes
+735,139,face wash
+736,69,bananas
+736,69,lotion
+736,69,cheese
+737,43,dish soap
+737,43,butter
+737,43,tomatoes
+737,43,wine
+738,76,beans
+738,76,chicken
+738,76,coffee
+738,76,beer
+738,76,cheese
+739,175,lotion
+739,175,bananas
+739,175,paper towels
+740,162,dish soap
+740,162,toilet paper
+741,290,cleaning spray
+741,290,toilet paper
+741,290,face wash
+741,290,beef
+741,290,deodorant
+742,181,beer
+742,181,soap
+742,181,yogurt
+742,181,chicken
+742,181,paper towels
+743,195,face wash
+743,195,pasta
+743,195,bananas
+744,160,milk
+744,160,coffee
+744,160,soda
+744,160,toothpaste
+745,241,beef
+745,241,face wash
+745,241,bananas
+745,241,deodorant
+746,83,bread
+746,83,paper towels
+746,83,deodorant
+746,83,water
+747,211,toilet paper
+747,211,lotion
+747,211,tea
+747,211,soda
+748,244,bread
+748,244,beans
+749,107,tomatoes
+749,107,beef
+749,107,yogurt
+749,107,cheese
+749,107,beer
+750,135,hair spray
+750,135,detergent
+750,135,cheese
+751,21,water
+751,21,chicken
+751,21,toothpaste
+752,133,tomatoes
+752,133,water
+752,133,soda
+753,239,bananas
+753,239,yogurt
+753,239,beef
+753,239,cleaning spray
+754,112,cheese
+754,112,hair spray
+754,112,cucumbers
+754,112,shampoo
+755,195,beef
+755,195,dish soap
+755,195,beer
+755,195,bananas
+756,275,toilet paper
+756,275,lotion
+757,200,juice
+757,200,yogurt
+758,40,shampoo
+758,40,beans
+758,40,wine
+758,40,paper towels
+759,241,detergent
+759,241,juice
+760,215,detergent
+760,215,water
+760,215,coffee
+760,215,bananas
+761,266,bananas
+761,266,detergent
+762,300,beer
+762,300,juice
+762,300,face wash
+762,300,milk
+763,93,beans
+763,93,apples
+763,93,shampoo
+763,93,dish soap
+763,93,detergent
+764,13,toilet paper
+764,13,tomatoes
+764,13,light bulbs
+765,32,toothpaste
+765,32,beans
+765,32,apples
+766,290,face wash
+766,290,tea
+766,290,detergent
+766,290,rice
+767,277,garbage bags
+767,277,coffee
+767,277,juice
+767,277,toothpaste
+767,277,beef
+768,137,water
+768,137,beef
+768,137,toilet paper
+768,137,pasta
+769,229,toilet paper
+769,229,lotion
+769,229,water
+769,229,toothpaste
+770,252,bananas
+770,252,juice
+771,13,wine
+771,13,toothpaste
+771,13,hair spray
+771,13,toilet paper
+772,300,beans
+772,300,toilet paper
+772,300,soda
+773,27,hair spray
+773,27,apples
+773,27,lotion
+773,27,water
+773,27,soda
+774,135,yogurt
+774,135,butter
+774,135,garbage bags
+774,135,eggs
+775,221,garbage bags
+775,221,dish soap
+775,221,toothpaste
+775,221,deodorant
+776,202,dish soap
+776,202,garbage bags
+776,202,shampoo
+777,298,yogurt
+777,298,water
+777,298,soap
+778,236,lotion
+778,236,bananas
+778,236,deodorant
+778,236,apples
+779,237,bananas
+779,237,toothpaste
+779,237,toilet paper
+779,237,cheese
+779,237,yogurt
+780,16,detergent
+780,16,pasta
+780,16,soda
+780,16,beans
+781,97,tea
+781,97,beer
+781,97,chicken
+782,143,eggs
+782,143,tea
+783,35,butter
+783,35,cleaning spray
+783,35,toilet paper
+783,35,lotion
+783,35,apples
+784,210,yogurt
+784,210,cucumbers
+785,253,milk
+785,253,face wash
+785,253,shampoo
+785,253,juice
+786,265,juice
+786,265,detergent
+786,265,chicken
+787,110,butter
+787,110,apples
+787,110,beer
+788,42,soap
+788,42,beer
+789,144,juice
+789,144,eggs
+790,135,detergent
+790,135,toilet paper
+790,135,hair spray
+791,90,tea
+791,90,coffee
+792,218,tea
+792,218,shampoo
+793,43,cheese
+793,43,cucumbers
+793,43,toilet paper
+794,258,pasta
+794,258,dish soap
+794,258,cucumbers
+795,298,eggs
+795,298,rice
+795,298,coffee
+795,298,light bulbs
+796,276,apples
+796,276,butter
+797,185,light bulbs
+797,185,tea
+798,25,hair spray
+798,25,chicken
+798,25,butter
+799,147,beef
+799,147,bananas
+799,147,pasta
+800,186,soap
+800,186,bread
+800,186,beef
+800,186,toothpaste
+801,93,apples
+801,93,deodorant
+801,93,beef
+802,235,toilet paper
+802,235,juice
+803,92,toothpaste
+803,92,apples
+804,293,apples
+804,293,shampoo
+804,293,yogurt
+804,293,juice
+804,293,cheese
+805,285,butter
+805,285,toilet paper
+805,285,dish soap
+805,285,pasta
+805,285,cleaning spray
+806,241,hair spray
+806,241,milk
+806,241,pasta
+806,241,tomatoes
+807,73,garbage bags
+807,73,juice
+808,29,toilet paper
+808,29,lotion
+809,61,dish soap
+809,61,pasta
+809,61,deodorant
+810,61,toilet paper
+810,61,juice
+810,61,chicken
+811,79,coffee
+811,79,toothpaste
+812,226,water
+812,226,bread
+812,226,deodorant
+813,284,cleaning spray
+813,284,soda
+813,284,wine
+813,284,soap
+813,284,light bulbs
+814,29,face wash
+814,29,tea
+814,29,toothpaste
+815,184,wine
+815,184,face wash
+815,184,eggs
+815,184,milk
+816,136,coffee
+816,136,yogurt
+817,273,wine
+817,273,rice
+817,273,apples
+817,273,shampoo
+817,273,yogurt
+818,100,face wash
+818,100,soap
+818,100,water
+818,100,coffee
+819,269,deodorant
+819,269,soap
+819,269,yogurt
+819,269,hair spray
+819,269,tomatoes
+820,72,toothpaste
+820,72,tea
+821,161,water
+821,161,beef
+821,161,face wash
+822,189,garbage bags
+822,189,detergent
+822,189,shampoo
+822,189,beef
+823,232,cheese
+823,232,yogurt
+823,232,beans
+823,232,apples
+824,172,shampoo
+824,172,light bulbs
+824,172,paper towels
+824,172,detergent
+824,172,soda
+825,269,hair spray
+825,269,beans
+825,269,beef
+826,22,cucumbers
+826,22,toothpaste
+826,22,beef
+827,285,detergent
+827,285,cucumbers
+827,285,light bulbs
+827,285,deodorant
+828,29,hair spray
+828,29,toothpaste
+828,29,bread
+828,29,apples
+829,58,rice
+829,58,bread
+829,58,hair spray
+830,238,wine
+830,238,beer
+830,238,lotion
+830,238,cheese
+830,238,soap
+831,279,deodorant
+831,279,beef
+831,279,cheese
+831,279,paper towels
+832,112,tea
+832,112,paper towels
+833,172,juice
+833,172,yogurt
+833,172,dish soap
+833,172,soda
+834,186,beans
+834,186,eggs
+834,186,juice
+835,10,wine
+835,10,coffee
+836,58,light bulbs
+836,58,paper towels
+836,58,detergent
+836,58,soap
+836,58,chicken
+837,224,pasta
+837,224,face wash
+837,224,deodorant
+837,224,toilet paper
+837,224,cleaning spray
+838,54,yogurt
+838,54,soap
+838,54,milk
+838,54,eggs
+838,54,toothpaste
+839,95,light bulbs
+839,95,bread
+839,95,beer
+839,95,tea
+840,65,beer
+840,65,chicken
+840,65,soda
+840,65,water
+840,65,pasta
+841,64,beans
+841,64,light bulbs
+841,64,chicken
+841,64,water
+841,64,eggs
+842,287,juice
+842,287,toilet paper
+842,287,butter
+842,287,beer
+842,287,lotion
+843,232,dish soap
+843,232,yogurt
+844,75,water
+844,75,butter
+845,35,face wash
+845,35,cleaning spray
+845,35,chicken
+846,24,eggs
+846,24,juice
+846,24,soda
+846,24,bananas
+846,24,garbage bags
+847,99,coffee
+847,99,tea
+847,99,hair spray
+847,99,wine
+848,83,deodorant
+848,83,hair spray
+848,83,light bulbs
+849,174,chicken
+849,174,lotion
+850,150,chicken
+850,150,beef
+850,150,tea
+851,3,beer
+851,3,cheese
+851,3,deodorant
+851,3,yogurt
+851,3,beans
+852,2,cheese
+852,2,face wash
+852,2,bread
+852,2,beef
+852,2,butter
+853,163,dish soap
+853,163,soda
+853,163,cucumbers
+853,163,beans
+854,105,toothpaste
+854,105,beef
+854,105,beer
+854,105,bananas
+854,105,lotion
+855,223,shampoo
+855,223,soda
+855,223,rice
+855,223,toothpaste
+856,72,toilet paper
+856,72,hair spray
+856,72,cleaning spray
+856,72,apples
+856,72,chicken
+857,77,chicken
+857,77,light bulbs
+857,77,dish soap
+857,77,apples
+857,77,cleaning spray
+858,216,beef
+858,216,paper towels
+858,216,wine
+858,216,deodorant
+859,283,tea
+859,283,toilet paper
+860,283,water
+860,283,yogurt
+861,285,juice
+861,285,bananas
+861,285,yogurt
+861,285,cucumbers
+862,46,lotion
+862,46,detergent
+863,256,bananas
+863,256,wine
+863,256,detergent
+864,271,cucumbers
+864,271,coffee
+864,271,yogurt
+864,271,light bulbs
+864,271,soda
+865,98,beef
+865,98,bread
+865,98,toothpaste
+865,98,coffee
+866,293,soap
+866,293,wine
+866,293,coffee
+866,293,tea
+867,218,bananas
+867,218,lotion
+867,218,cleaning spray
+867,218,shampoo
+868,154,toilet paper
+868,154,soda
+869,72,cleaning spray
+869,72,tea
+870,127,chicken
+870,127,soap
+871,152,hair spray
+871,152,chicken
+871,152,garbage bags
+871,152,yogurt
+872,41,beef
+872,41,pasta
+872,41,beans
+872,41,garbage bags
+872,41,bread
+873,90,hair spray
+873,90,water
+874,189,juice
+874,189,coffee
+874,189,pasta
+874,189,cucumbers
+874,189,beer
+875,70,paper towels
+875,70,eggs
+876,283,soda
+876,283,milk
+877,31,tomatoes
+877,31,wine
+877,31,pasta
+877,31,beef
+878,296,milk
+878,296,eggs
+878,296,light bulbs
+878,296,lotion
+879,18,tomatoes
+879,18,apples
+880,13,soap
+880,13,garbage bags
+880,13,butter
+881,65,shampoo
+881,65,water
+881,65,rice
+881,65,tea
+882,184,shampoo
+882,184,bananas
+882,184,wine
+882,184,soda
+882,184,beans
+883,162,coffee
+883,162,lotion
+884,62,lotion
+884,62,beans
+885,168,yogurt
+885,168,hair spray
+886,2,milk
+886,2,cheese
+886,2,tomatoes
+887,163,deodorant
+887,163,apples
+887,163,beer
+887,163,light bulbs
+888,247,beer
+888,247,rice
+888,247,beans
+888,247,paper towels
+889,261,water
+889,261,face wash
+890,61,rice
+890,61,toilet paper
+890,61,tomatoes
+891,30,yogurt
+891,30,coffee
+891,30,chicken
+892,128,deodorant
+892,128,juice
+892,128,light bulbs
+892,128,cleaning spray
+892,128,pasta
+893,269,paper towels
+893,269,pasta
+893,269,juice
+893,269,chicken
+894,115,yogurt
+894,115,beans
+894,115,soda
+894,115,dish soap
+894,115,paper towels
+895,48,butter
+895,48,cucumbers
+895,48,deodorant
+896,274,milk
+896,274,detergent
+896,274,soap
+896,274,paper towels
+896,274,beef
+897,234,toothpaste
+897,234,bread
+898,67,tomatoes
+898,67,soda
+898,67,coffee
+898,67,eggs
+899,266,dish soap
+899,266,bananas
+900,38,cucumbers
+900,38,paper towels
+901,15,paper towels
+901,15,garbage bags
+901,15,beer
+902,74,toilet paper
+902,74,cheese
+902,74,light bulbs
+903,250,detergent
+903,250,lotion
+903,250,water
+904,232,beef
+904,232,lotion
+905,273,beans
+905,273,wine
+905,273,face wash
+905,273,yogurt
+905,273,bread
+906,43,bananas
+906,43,milk
+906,43,shampoo
+906,43,pasta
+906,43,tomatoes
+907,279,juice
+907,279,detergent
+907,279,pasta
+907,279,lotion
+908,78,paper towels
+908,78,toilet paper
+908,78,lotion
+908,78,bananas
+909,275,apples
+909,275,face wash
+910,167,cheese
+910,167,chicken
+910,167,dish soap
+910,167,beef
+911,40,butter
+911,40,toilet paper
+912,286,soda
+912,286,butter
+912,286,bread
+912,286,apples
+913,222,beer
+913,222,toilet paper
+913,222,garbage bags
+914,263,tomatoes
+914,263,milk
+914,263,pasta
+914,263,soda
+914,263,tea
+915,141,cucumbers
+915,141,soap
+915,141,tomatoes
+916,64,yogurt
+916,64,beef
+916,64,rice
+916,64,bread
+917,135,toothpaste
+917,135,hair spray
+917,135,wine
+918,45,cucumbers
+918,45,light bulbs
+918,45,cleaning spray
+918,45,soap
+918,45,water
+919,95,paper towels
+919,95,lotion
+919,95,yogurt
+919,95,soda
+919,95,toothpaste
+920,186,soda
+920,186,shampoo
+920,186,wine
+920,186,water
+921,204,coffee
+921,204,garbage bags
+922,168,coffee
+922,168,garbage bags
+922,168,bread
+922,168,toilet paper
+922,168,beef
+923,221,soap
+923,221,deodorant
+923,221,lotion
+923,221,pasta
+923,221,juice
+924,146,shampoo
+924,146,cleaning spray
+924,146,bread
+924,146,coffee
+925,293,soda
+925,293,eggs
+925,293,detergent
+925,293,bananas
+925,293,hair spray
+926,191,toilet paper
+926,191,dish soap
+926,191,beef
+927,123,soap
+927,123,apples
+927,123,cheese
+928,28,chicken
+928,28,shampoo
+929,37,pasta
+929,37,eggs
+929,37,light bulbs
+929,37,hair spray
+930,16,butter
+930,16,toilet paper
+931,153,cleaning spray
+931,153,cucumbers
+931,153,detergent
+931,153,beef
+932,238,yogurt
+932,238,paper towels
+933,194,soap
+933,194,beef
+934,124,wine
+934,124,light bulbs
+934,124,paper towels
+934,124,apples
+935,300,chicken
+935,300,milk
+936,209,bread
+936,209,apples
+937,268,yogurt
+937,268,eggs
+937,268,soap
+938,23,beans
+938,23,toothpaste
+938,23,paper towels
+939,81,shampoo
+939,81,beer
+939,81,tomatoes
+939,81,soda
+939,81,soap
+940,75,tea
+940,75,lotion
+941,192,soda
+941,192,water
+941,192,garbage bags
+941,192,tomatoes
+942,111,shampoo
+942,111,wine
+942,111,detergent
+942,111,chicken
+942,111,rice
+943,42,tomatoes
+943,42,pasta
+944,162,cucumbers
+944,162,milk
+944,162,eggs
+944,162,soap
+945,164,cheese
+945,164,yogurt
+945,164,light bulbs
+945,164,wine
+946,253,cleaning spray
+946,253,hair spray
+946,253,pasta
+946,253,shampoo
+947,157,beer
+947,157,bananas
+947,157,paper towels
+947,157,milk
+948,257,coffee
+948,257,chicken
+948,257,wine
+948,257,pasta
+949,110,bread
+949,110,rice
+949,110,tea
+949,110,apples
+949,110,cleaning spray
+950,112,lotion
+950,112,bananas
+951,266,soap
+951,266,detergent
+951,266,yogurt
+951,266,cleaning spray
+951,266,lotion
+952,244,cleaning spray
+952,244,cucumbers
+952,244,toilet paper
+952,244,detergent
+953,213,paper towels
+953,213,water
+953,213,tea
+953,213,milk
+953,213,lotion
+954,125,yogurt
+954,125,toothpaste
+954,125,cheese
+954,125,cleaning spray
+955,200,toilet paper
+955,200,butter
+956,132,detergent
+956,132,wine
+957,208,eggs
+957,208,water
+957,208,apples
+957,208,rice
+957,208,lotion
+958,81,cucumbers
+958,81,hair spray
+959,238,wine
+959,238,beans
+960,8,shampoo
+960,8,beer
+961,162,toilet paper
+961,162,coffee
+962,153,detergent
+962,153,cleaning spray
+963,46,light bulbs
+963,46,tomatoes
+963,46,detergent
+963,46,coffee
+964,49,garbage bags
+964,49,rice
+964,49,tea
+965,18,wine
+965,18,toothpaste
+965,18,apples
+965,18,cleaning spray
+965,18,chicken
+966,241,eggs
+966,241,paper towels
+966,241,beans
+967,105,cheese
+967,105,toilet paper
+967,105,yogurt
+967,105,shampoo
+967,105,dish soap
+968,159,wine
+968,159,paper towels
+968,159,eggs
+968,159,bananas
+969,18,bread
+969,18,beans
+969,18,butter
+969,18,water
+970,113,paper towels
+970,113,eggs
+970,113,apples
+970,113,detergent
+970,113,cheese
+971,90,juice
+971,90,toothpaste
+972,77,pasta
+972,77,deodorant
+972,77,beer
+973,239,toilet paper
+973,239,paper towels
+973,239,yogurt
+973,239,tea
+974,187,cleaning spray
+974,187,beans
+974,187,rice
+974,187,apples
+975,33,toothpaste
+975,33,wine
+975,33,tea
+975,33,cucumbers
+975,33,water
+976,109,juice
+976,109,face wash
+976,109,coffee
+976,109,water
+977,32,face wash
+977,32,toothpaste
+977,32,bread
+977,32,beef
+977,32,cheese
+978,83,bananas
+978,83,face wash
+978,83,wine
+978,83,light bulbs
+979,58,beer
+979,58,apples
+979,58,yogurt
+980,104,bananas
+980,104,dish soap
+980,104,cheese
+980,104,deodorant
+981,215,toothpaste
+981,215,hair spray
+981,215,toilet paper
+981,215,rice
+982,38,cheese
+982,38,face wash
+982,38,shampoo
+982,38,dish soap
+982,38,yogurt
+983,41,milk
+983,41,light bulbs
+983,41,beans
+984,243,rice
+984,243,deodorant
+984,243,detergent
+984,243,juice
+985,229,milk
+985,229,hair spray
+985,229,chicken
+986,70,tea
+986,70,face wash
+986,70,detergent
+986,70,beer
+987,297,cucumbers
+987,297,juice
+987,297,lotion
+988,118,lotion
+988,118,beer
+988,118,yogurt
+989,207,wine
+989,207,apples
+990,136,cheese
+990,136,beer
+991,33,shampoo
+991,33,tea
+992,176,deodorant
+992,176,shampoo
+992,176,bread
+992,176,beans
+992,176,face wash
+993,266,chicken
+993,266,paper towels
+993,266,cheese
+993,266,wine
+994,43,toothpaste
+994,43,water
+994,43,butter
+994,43,shampoo
+994,43,yogurt
+995,40,milk
+995,40,lotion
+995,40,dish soap
+996,57,shampoo
+996,57,soap
+996,57,milk
+997,298,deodorant
+997,298,eggs
+997,298,face wash
+997,298,dish soap
+998,176,bananas
+998,176,milk
+998,176,cheese
+999,161,yogurt
+999,161,face wash
+999,161,pasta
+999,161,shampoo
+1000,81,bananas
+1000,81,yogurt
+1000,81,cucumbers
+1000,81,tea
